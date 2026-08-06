@@ -8,10 +8,6 @@
   A fast radial launcher for Windows.
 </p>
 
-<p align="center">
-  <img src="./assets/index-demo.gif" alt="Index cursor moving around the radial launcher and highlighting installed apps" width="520">
-</p>
-
 ## One gesture. Eight destinations.
 
 Hold your shortcut, move toward an app, and release. Index turns a familiar mouse gesture into a quick, visual way to open the tools you use most.
