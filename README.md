@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="./assets/index-demo.webp" alt="Index cursor moving across Xbox, Outlook, Calculator, and Command Prompt on the radial launcher" width="520">
+  <img src="./assets/index-demo.gif" alt="Index cursor moving around the radial launcher and highlighting installed apps" width="520">
 </p>
 
 ## One gesture. Eight destinations.
