@@ -23,7 +23,8 @@ The first public release is being prepared. When it is ready, download the Windo
 
 After the initial installation, Index will check this release channel for updates and offer a simple **Restart to update** action when a new version is ready.
 
-> No public installer has been published yet.
+> [!WARNING]
+> **Index is currently unsigned, and no public installer has been published yet.** If an unsigned preview is released, Windows may show a **Windows protected your PC** warning. Download Index only from this repository and install it only if you are comfortable proceeding past that warning. Code signing is planned for a future release.
 
 ## System requirements
 
