@@ -17,9 +17,16 @@ Hold your shortcut, move toward an app, and release. Index turns a familiar mous
 - **Personal** — assign eight apps and tune the shortcut to your workflow.
 - **Quiet** — Index lives in the notification area until you need it.
 
+## New in 2.1.15
+
+- Choose between **Signature**, the original machined wheel, and **Pro**, a flat backlit console that uses your Windows accent color.
+- Selected slots now glow from within and cast a wider bloom across the wheel.
+- Opening motion now follows a damped spring, with distinct cancel and launch exits. Reduced motion remains immediate.
+- Themes change appearance without changing hit testing, accessibility, focus and error states, or high-contrast rendering.
+
 ## Download
 
-**Current stable release: Index 2.1.14**
+**Current stable release: Index 2.1.15**
 
 [Download Index for Windows](https://github.com/robertbradley-oss/index-releases/releases/latest), then choose the `Index-Setup-<version>-x64.exe` installer.
 
