@@ -19,12 +19,14 @@ Hold your shortcut, move toward an app, and release. Index turns a familiar mous
 
 ## Download
 
-The first public release is being prepared. When it is ready, download the Windows installer from [Releases](https://github.com/robertbradley-oss/index-releases/releases).
+**Current stable release: Index 2.1.14**
 
-After the initial installation, Index will check this release channel for updates and offer a simple **Restart to update** action when a new version is ready.
+[Download Index for Windows](https://github.com/robertbradley-oss/index-releases/releases/latest), then choose the `Index-Setup-<version>-x64.exe` installer.
+
+After the initial installation, Index checks this release channel for updates. It verifies each download, waits until the wheel and Settings are closed, installs the update per-user, and relaunches automatically. Your configuration remains in `%LocalAppData%\Index\settings.json`.
 
 > [!WARNING]
-> **Index is currently unsigned, and no public installer has been published yet.** If an unsigned preview is released, Windows may show a **Windows protected your PC** warning. Download Index only from this repository and install it only if you are comfortable proceeding past that warning. Code signing is planned for a future release.
+> **Index is currently unsigned.** Windows may show a **Windows protected your PC** or unknown-publisher warning. Download Index only from this repository and install it only if you are comfortable proceeding past that warning. HTTPS and published checksums protect download integrity but do not replace publisher code signing, which is planned for a future release.
 
 ## System requirements
 
