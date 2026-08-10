@@ -17,7 +17,11 @@ Hold your shortcut, move toward an app, and release. Index turns a familiar mous
 - **Personal** — assign eight apps and tune the shortcut to your workflow.
 - **Quiet** — Index lives in the notification area until you need it.
 
-## New in 2.2.0
+## New in 2.2.1
+
+- In Hold mode, clicking the center of the wheel now brings Settings to the foreground instead of opening it behind the active app.
+
+## Added in 2.2.0
 
 - **Daylight** brings the Pro console into a bright, frosted material while carrying your Windows accent into a deep azure.
 - **Constellation** arranges eight tiles around a lit hub, with a selection beam that sweeps around the orbit.
@@ -26,7 +30,7 @@ Hold your shortcut, move toward an app, and release. Index turns a familiar mous
 
 ## Download
 
-**Current stable release: Index 2.2.0**
+**Current stable release: Index 2.2.1**
 
 [Download Index for Windows](https://github.com/robertbradley-oss/index-releases/releases/latest), then choose the `Index-Setup-<version>-x64.exe` installer.
 
