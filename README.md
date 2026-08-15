@@ -17,6 +17,14 @@ Hold your shortcut, move toward an app, and release. Index turns a familiar mous
 - **Personal** — assign eight apps and tune the shortcut to your workflow.
 - **Quiet** — Index lives in the notification area until you need it.
 
+## Themes
+
+Index includes four selectable wheel themes. These transparent captures come directly from the 2.2.1 renderer in the selected state, so they stay clean in both light and dark GitHub themes.
+
+![Index theme gallery showing Signature, Pro, Daylight, and Constellation](./assets/themes/theme-gallery.png)
+
+Full-size captures: [Signature](./assets/themes/signature.png) · [Pro](./assets/themes/pro.png) · [Daylight](./assets/themes/daylight.png) · [Constellation](./assets/themes/constellation.png)
+
 ## New in 2.2.1
 
 - In Hold mode, clicking the center of the wheel now brings Settings to the foreground instead of opening it behind the active app.
