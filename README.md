@@ -8,14 +8,7 @@
   A fast radial launcher for Windows.
 </p>
 
-## One gesture. Eight destinations.
-
-Hold your shortcut, move toward an app, and release. Index turns a familiar mouse gesture into a quick, visual way to open the tools you use most.
-
-- **Immediate** — summon the wheel from anywhere without breaking focus.
-- **Visual** — recognize destinations by position, icon, and color.
-- **Personal** — assign eight apps and tune the shortcut to your workflow.
-- **Quiet** — Index lives in the notification area until you need it.
+Hold your shortcut, move toward an app, and release to open it. Assign up to eight apps and choose your shortcut in Settings. Index stays in the notification area until you need it.
 
 ## Themes
 
@@ -31,8 +24,8 @@ Full-size captures: [Signature](./assets/themes/signature.png) · [Pro](./assets
 
 ## Added in 2.2.0
 
-- **Daylight** brings the Pro console into a bright, frosted material while carrying your Windows accent into a deep azure.
-- **Constellation** arranges eight tiles around a lit hub, with a selection beam that sweeps around the orbit.
+- **Daylight** uses the Pro layout with a light, frosted appearance and your Windows accent color.
+- **Constellation** places eight tiles around a central hub and highlights the selected direction.
 - The Theme setting now describes all four choices: Signature, Pro, Daylight, and Constellation.
 - Signature and Pro keep their established appearance and behavior.
 
