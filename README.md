@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="./assets/index-wheel.png" alt="Index radial launcher with Paint selected" width="520">
-</p>
-
 <h1 align="center">Index</h1>
 
 <p align="center">
@@ -12,7 +8,7 @@ Hold your shortcut, move toward an app, and release to open it. Assign up to eig
 
 ## Themes
 
-Index includes four selectable wheel themes. These transparent captures come directly from the 2.2.1 renderer in the selected state, so they stay clean in both light and dark GitHub themes.
+Index includes four selectable wheel themes. These transparent captures come directly from the 2.2.1 renderer using a real Index configuration and vendor application icons, so they stay clean in both light and dark GitHub themes.
 
 ![Index theme gallery showing Signature, Pro, Daylight, and Constellation](./assets/themes/theme-gallery.png)
 
