@@ -18,6 +18,13 @@ Index includes four selectable wheel themes. These transparent captures come dir
 
 Full-size captures: [Signature](./assets/themes/signature.png) · [Pro](./assets/themes/pro.png) · [Daylight](./assets/themes/daylight.png) · [Constellation](./assets/themes/constellation.png)
 
+## New in 2.2.2
+
+- Refresh installed apps without reopening Settings, preserving assignments, search, and selection.
+- More reliable app selection, keyboard focus, and application discovery when Settings closes.
+- Improved scrolling in compact Settings windows so app picker and slot-order controls remain reachable.
+- Corrected Settings text and cleaned up animation subscriptions when the wheel hides.
+
 ## New in 2.2.1
 
 - In Hold mode, clicking the center of the wheel now brings Settings to the foreground instead of opening it behind the active app.
@@ -31,7 +38,7 @@ Full-size captures: [Signature](./assets/themes/signature.png) · [Pro](./assets
 
 ## Download
 
-**Current stable release: Index 2.2.1**
+**Current stable release: Index 2.2.2**
 
 [Download Index for Windows](https://github.com/robertbradley-oss/index-releases/releases/latest), then choose the `Index-Setup-<version>-x64.exe` installer.
 
